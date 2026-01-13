@@ -11,13 +11,13 @@ Book Track System is a library management system designed to efficiently manage 
 --- 
  
 ## Project Objective 
-i.	Staff currently check overdue books manually, which is time-consuming, prone to errors, and allows members to keep books past the 30-day limit.
-ii.	When members return books, availability updates are delayed, creating bottlenecks at service desks and incorrect information for other members.
+i.	  Staff currently check overdue books manually, which is time-consuming, prone to errors, and allows members to keep books past the 30-day limit.
+ii.	 When members return books, availability updates are delayed, creating bottlenecks at service desks and incorrect information for other members.
 iii.	There are no standardized reports to track how each branch is performing, making it difficult to allocate resources or identify best practices.
-iv.	The system cannot distinguish between active and inactive members, leading to inefficient outreach and wasted marketing efforts.
-v.	 Staff performance is mostly assessed subjectively, so top performers are not consistently recognized, affecting motivation and retention.
-vi.	The library experiences frequent book damage, but there’s no way to track which members are responsible, resulting in high replacement costs.
-vii.	Books are sometimes issued to multiple members because the system does not check real-time availability, causing errors and member frustration.
+iv.	 The system cannot distinguish between active and inactive members, leading to inefficient outreach and wasted marketing efforts.
+v.	  Staff performance is mostly assessed subjectively, so top performers are not consistently recognized, affecting motivation and retention.
+vi.	 The library experiences frequent book damage, but there’s no way to track which members are responsible, resulting in high replacement costs.
+vii. Books are sometimes issued to multiple members because the system does not check real-time availability, causing errors and member frustration.
 
 
 
