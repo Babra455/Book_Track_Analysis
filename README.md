@@ -27,10 +27,15 @@ vii. Books are sometimes issued to multiple members because the system does not 
 ## Datasets 
 
 **members.csv** -  This dataset contains member registration details with columns including member_id, member_name, member_address, and reg_date, supporting analysis of membership records, registration trends, and member distribution.
+
 **branch.csv** - This dataset contains branch information with columns including branch_id, manager_id, branch_address, and contact_no, enabling analysis of branch structure, management assignments, and contact details across locations.
+
 **books.csv** - This dataset contains book inventory details with columns including isbn, book_title, category, rental_price, status, author, and publisher, supporting analysis of catalog composition, pricing, availability, and author or publisher trends.
+
 **employees.csv** - This dataset contains employee records with columns including emp_id, emp_name, position, salary, and branch_id, enabling analysis of staff roles, compensation structure, and employee distribution across branches.
+
 **issued_status.csv** - This dataset contains book issuance records with columns including issued_id, issued_member_id, issued_book_name, issued_date, issued_book_isbn, and issued_emp_id, supporting analysis of borrowing activity, member engagement, book circulation, and staff involvement in the issuing process.
+
 **return_status.csv** - This dataset contains book return records with columns including return_id, issued_id, return_book_name, return_date, return_book_isbn, and book_quality, enabling analysis of return activity, book condition tracking, and overall circulation management.
 
 
