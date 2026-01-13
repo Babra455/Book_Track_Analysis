@@ -73,7 +73,7 @@ Book Track System is a library management system designed to efficiently manage 
  
 ## Project Files (included) 
 -	`Book Track Analysis.pdf` -boardroom slide deck(12 Slides)
--	`Library_records SQL Script` — boardroom slide deck (10–12 slides)   
+-	`Library_records SQL Script` — boardroom slide deck (18 slides)   
 -	`README.md` — this documentation 
 -	`MP_SQL_Project_2` – The problem
  
