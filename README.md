@@ -47,16 +47,18 @@ Book Track System is a library management system designed to efficiently manage 
 4.	The issuance data indicates that most books are borrowed a limited number of times, with the majority of titles issued twice and only a few reaching three borrowings.
 5.	The data shows that member C2567 (Jessica Velazouez) is the most active borrower, with 3 books borrowed, while the majority of members have borrowed 2 books, indicating fairly even borrowing behavior across members.
 6.	Each member has only one damaged book return, showing that damage is currently isolated and not repeated.
+7.	The data shows a widespread issue of extremely overdue books, with many items outstanding for over 600 days, indicating weak enforcement of return policies and delayed follow-up across the library system.
 
 --- 
 ## Recommendations 
-1.	The library should implement targeted engagement initiatives such as reading challenges, loyalty rewards, and personalized book recommendations to encourage members to increase their borrowing frequency and make fuller use of available resources
-2.	Management should analyze the operational practices, staffing levels, and customer outreach strategies used by high-performing branches such as Branch B001, and replicate these best practices at lower-performing branches to improve overall circulation and revenue.
-3.	The library should recognize and reward high-performing employees to sustain motivation, while also providing additional training, process optimization, or support to staff in lower-performing branches to ensure consistent service quality across locations.
-4.	The library should actively target inactive and first-time members through onboarding programs, awareness campaigns, and incentives such as free rentals or discounts to increase participation and convert registered members into regular borrowers.
-5.	The library should use circulation data to refine collection management by increasing visibility of frequently borrowed titles, bundling similar books into thematic recommendations, and reassessing underperforming titles to ensure the catalog better reflects member preferences and reading trends.
-6.	The library should introduce targeted engagement initiatives—such as member onboarding programs, borrowing incentives, and personalized outreach—to encourage inactive members to actively borrow books and increase overall participation.
-7.	The library should monitor all damaged returns and remind members to handle books carefully to prevent future damage and reduce replacement costs.
+1.	The library should implement targeted engagement initiatives such as reading challenges, loyalty rewards, and personalized book recommendations to encourage members to increase their borrowing frequency and make fuller use of available resources.
+2.	Introduce automated overdue alerts, stricter borrowing restrictions, and clearer penalty or replacement policies to improve book recovery and prevent long-term overdue cases.
+3.	Management should analyze the operational practices, staffing levels, and customer outreach strategies used by high-performing branches such as Branch B001, and replicate these best practices at lower-performing branches to improve overall circulation and revenue.
+4.	The library should recognize and reward high-performing employees to sustain motivation, while also providing additional training, process optimization, or support to staff in lower-performing branches to ensure consistent service quality across locations.
+5.	The library should actively target inactive and first-time members through onboarding programs, awareness campaigns, and incentives such as free rentals or discounts to increase participation and convert registered members into regular borrowers.
+6.	The library should use circulation data to refine collection management by increasing visibility of frequently borrowed titles, bundling similar books into thematic recommendations, and reassessing underperforming titles to ensure the catalog better reflects member preferences and reading trends.
+7.	The library should introduce targeted engagement initiatives—such as member onboarding programs, borrowing incentives, and personalized outreach—to encourage inactive members to actively borrow books and increase overall participation.
+8.	The library should monitor all damaged returns and remind members to handle books carefully to prevent future damage and reduce replacement costs.
 
 
  
