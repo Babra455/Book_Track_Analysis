@@ -6,8 +6,12 @@
 --- 
  
 ## Project Background 
-Book Track System is a library management system designed to efficiently manage and organize books, members, employees, and library branches. It keeps accurate records of book issues and returns, ensuring that all data is consistent and reliable. The system uses relational database design with primary and foreign keys, allowing tables to be connected through SQL joins for advanced analysis. With this, it can provide insights such as the most active employees, members who borrow the most books, the most popular books, and branch performance. By combining clean, structured data with powerful analysis, Book Track System helps libraries improve operations, make informed decisions, and deliver better services to their members.
+Book Track System is a library management system designed to efficiently manage and organize books, members, employees, and library branches. It keeps accurate records of book issues and returns, ensuring that all data is consistent and reliable. The system uses relational database design with primary and foreign keys, allowing tables to be connected through SQL joins for advanced analysis.With this, it can provide insights such as the most active employees, members who borrow the most books, the most popular books, and branch performance. By combining clean, structured data with powerful analysis, Book Track System helps libraries improve operations, make informed decisions, and deliver better services to their members.
+ 
 
+🔗 **Presentation Slides:**  
+[View PowerPoint on Google Drive](https://docs.google.com/presentation/d/1miVH1_eEX9DYfH0rf9Zvk9kO7qLmKKn3/edit?usp=sharing)
+ 
 --- 
  
 ## Project Objective 
@@ -74,8 +78,7 @@ Book Track System is a library management system designed to efficiently manage 
 --- 
  
 ## Project Files (included) 
--	`Book Track Analysis.pdf` -boardroom slide deck(12 Slides)
--	`Library_records SQL Script` — boardroom slide deck (18 slides)   
+-	`Library_records SQL Script` — SQL Query 
 -	`README.md` — this documentation 
 -	`MP_SQL_Project_2` – The problem
  
@@ -86,7 +89,7 @@ Book Track System is a library management system designed to efficiently manage 
 2.	Open the SQL script file in your SQL editor.  
 3.	Analysis was done entirely using SQL queries.
 4.	View the results in the query output/results panel for each section of the analysis.
-5.	Refer to `Book Track Analysis Presentation.pdf` for a summary of insights and recommended actions 
+5.	Refer to `https://docs.google.com/presentation/d/1miVH1_eEX9DYfH0rf9Zvk9kO7qLmKKn3/edit?usp=sharing&ouid=100806247994175396515&rtpof=true&sd=true` for a summary of insights and recommended actions 
  
  
 
