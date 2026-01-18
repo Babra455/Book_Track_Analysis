@@ -57,7 +57,7 @@ Book Track System is a library management system designed to efficiently manage 
 4.	The library should recognize and reward high-performing employees to sustain motivation, while also providing additional training, process optimization, or support to staff in lower-performing branches to ensure consistent service quality across locations.
 5.	The library should actively target inactive and first-time members through onboarding programs, awareness campaigns, and incentives such as free rentals or discounts to increase participation and convert registered members into regular borrowers.
 6.	The library should use circulation data to refine collection management by increasing visibility of frequently borrowed titles, bundling similar books into thematic recommendations, and reassessing underperforming titles to ensure the catalog better reflects member preferences and reading trends.
-7.	The library should introduce targeted engagement initiatives—such as member onboarding programs, borrowing incentives, and personalized outreach—to encourage inactive members to actively borrow books and increase overall participation.
+7.Introduce clear handling guidelines for members, enforce penalties or repair fees for damaged returns, and track damaged items in a centralized system to maintain collection quality.
 8.	The library should monitor all damaged returns and remind members to handle books carefully to prevent future damage and reduce replacement costs.
 
 
