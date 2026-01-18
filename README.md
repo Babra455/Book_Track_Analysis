@@ -89,7 +89,7 @@ Book Track System is a library management system designed to efficiently manage 
 2.	Open the SQL script file in your SQL editor.  
 3.	Analysis was done entirely using SQL queries.
 4.	View the results in the query output/results panel for each section of the analysis.
-5.	Refer to `https://docs.google.com/presentation/d/1miVH1_eEX9DYfH0rf9Zvk9kO7qLmKKn3/edit?usp=sharing&ouid=100806247994175396515&rtpof=true&sd=true` for a summary of insights and recommended actions 
+5.	Refer to ` [View Presentation on Google Drive](https://docs.google.com/presentation/d/1miVH1_eEX9DYfH0rf9Zvk9kO7qLmKKn3/edit?usp=sharing)` for a summary of insights and recommended actions 
  
  
 
