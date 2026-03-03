@@ -6,7 +6,7 @@
 --- 
  
 ## Project Background 
-Book Track System is a library management system designed to efficiently manage and organize books, members, employees, and library branches. It keeps accurate records of book issues and returns, ensuring that all data is consistent and reliable. The system uses relational database design with primary and foreign keys, allowing tables to be connected through SQL joins for advanced analysis.With this, it can provide insights such as the most active employees, members who borrow the most books, the most popular books, and branch performance. By combining clean, structured data with powerful analysis, Book Track System helps libraries improve operations, make informed decisions, and deliver better services to their members.
+Book Track System is a library management system designed to efficiently manage and organize books, members, employees, and library branches. It keeps accurate records of book issues and returns, ensuring that all data is consistent and reliable. The system uses relational database design with primary and foreign keys, allowing tables to be connected through SQL joins for advanced analysis.With this, it can provide insights such as the most active employees, members who borrow the most books, the most popular books, and branch performance. By combining clean, structured data with powerful analysis, Book Track System helps libraries improve operations, make informed decisions, and deliver better services to their members
  
 
 🔗 **Presentation Slides:**  
